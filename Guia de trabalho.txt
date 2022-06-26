@@ -1,0 +1,31 @@
+1º dia{
+	criar a pag inicial (index.html);
+	Configurar o css;
+	Configurar a css responsivo;
+      }
+
+2º dia{
+	criar as pag secundarias (galeria.html);
+	Configurar o css;
+	Configurar a css responsivo;
+      }
+
+3º dia{
+	criar a pag Admn [Para poder fazer o gerenciamento do Blog (Converter para php)];
+	Configurar o css;
+	Configurar a css responsivo;
+	-----------------------------
+	criar a base de dados{
+				criar tabela;
+				criar tipo de dados na tabela;
+			     }
+	------------------------------
+      }
+
+4º dia{
+	criar as pag config (Parte Model/Logica);
+	realizar conexão com a database;
+	inserir dados nas tabelas;
+	apresentar dados das tabelas [na paarte View (index.php/galeria.php);
+      }
+
